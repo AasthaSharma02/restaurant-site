@@ -1,0 +1,15 @@
+#Login-header, #Reserve-header {
+	background-color: #4d0099;
+}
+
+#Reserve-body, #Login-body {
+	background-color: #bf80ff;
+}
+
+.modal-title {
+	color: #ffffff;
+}
+
+#close {
+	color: #ffffff;
+}

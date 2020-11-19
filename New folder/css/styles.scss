@@ -1,0 +1,17 @@
+$bg-dark: #4d0099;
+$bg-light:#bf80ff;
+$white:#ffffff;
+
+#Login-header, #Reserve-header{
+	background-color:$bg-dark;
+}
+#Reserve-body, #Login-body{
+	background-color:$bg-light;
+}
+
+.modal-title{
+	color:$white;
+}
+#close{
+	color:$white;
+}
